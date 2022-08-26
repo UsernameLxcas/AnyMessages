@@ -1,0 +1,12 @@
+cuando_entra: '&7[&a+&7] %nombre%'
+cuando_sale: '&7[&c-&7] %nombre%'
+cuando_entra_admin: '&8[&cAdmin&8] &c%nombre% &6ha entrado al servidor!'
+titulo_entra: '&fBienvenido de nuevo! &e%nombre%'
+subtitulo_entra: '&btienda.anycraft.net'
+console_message: '&e[AnyMessages] &4Ha entrado un jugador con permisos &e[%nombre%]'
+bed_respawn: '&eHas puesto tu punto de respawn'
+mensaje_respawn: '&eHas respawneado ;)'
+
+mensaje_hacia_jugador:
+- '&fBienvenido a &emc.anytown.net'
+- '&fTienda:&b tienda.anytown.net'
