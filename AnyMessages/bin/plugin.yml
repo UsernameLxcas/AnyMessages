@@ -1,0 +1,13 @@
+name: AnyMSG
+author: Anytown
+description: Messages plugin
+main: AnyPack.Inicio
+version: 2.0
+
+commands:
+  toxic:
+    usage: /toxic
+    description: toxic words
+  anymsg:
+    usage: /anymsg
+    description: information of anymessages
